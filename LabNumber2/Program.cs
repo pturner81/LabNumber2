@@ -10,14 +10,15 @@ namespace LabNumber2
     {
         static void Main(string[] args)
         {
+            //practice changes
             //input
             //enter lenth
             double Width, Length, Height;
 
-            Console.WriteLine("Enter the room width (in feet using decimals not inches)");
+            Console.WriteLine("Enter the room's width (in feet using decimals not inches)");
             Width = Convert.ToDouble(Console.ReadLine());
             //enter width
-            Console.WriteLine("Enter the room length (in feet using decimals not inches)");
+            Console.WriteLine("Enter the room's length (in feet using decimals not inches)");
             Length = Convert.ToDouble(Console.ReadLine());
             
             
